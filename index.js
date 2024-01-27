@@ -31,4 +31,4 @@ app.get("/getTxtFiles", (req, res) => {
   });
 });
 
-app.listen(PORT,() => console.log(`App Listening to ${PORT}`));
+app.listen(PORT, () => console.log(`App Listening to ${PORT}`));
